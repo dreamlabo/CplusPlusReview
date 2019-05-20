@@ -3,7 +3,7 @@
 
 using namespace std;
 int main() {
-    cout << "\nA few exercises from Chapter 1 of \"C++, From Control Structures through Objects.\"\n";
+    cout << "\nA few exercises from Chapter 2 of \"C++, From Control Structures through Objects.\"\n";
     int a = 50;
     int b = 100;
     cout << "\n1. Sum of Two Numbers:\n";
