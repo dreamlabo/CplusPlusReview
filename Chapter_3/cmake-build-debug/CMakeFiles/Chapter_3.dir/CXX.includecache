@@ -6,7 +6,17 @@
 
 #IncludeRegexTransform: 
 
-/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_3/main.cpp
+/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_3/functions.cpp
+functions.h
+/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_3/functions.h
 iostream
 -
+iomanip
+-
+string
+-
+cmath
+-
+
+/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_3/functions.h
 

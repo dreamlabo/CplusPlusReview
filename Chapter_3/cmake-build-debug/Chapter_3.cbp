@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_3/functions.cpp">
+			<Option target="Chapter_3"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_3/functions.h">
+			<Option target="Chapter_3"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_3/main.cpp">
 			<Option target="Chapter_3"/>
 		</Unit>
