@@ -6,7 +6,19 @@
 
 #IncludeRegexTransform: 
 
+/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_2/functions.cpp
+functions.h
+/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_2/functions.h
+iostream
+-
+iomanip
+-
+
+/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_2/functions.h
+
 /cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_2/main.cpp
 iostream
 -
+functions.h
+/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_2/functions.h
 

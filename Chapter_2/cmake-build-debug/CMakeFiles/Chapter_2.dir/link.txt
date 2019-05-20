@@ -1,1 +1,1 @@
-/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Chapter_2.dir/main.cpp.o  -o Chapter_2.exe -Wl,--out-implib,libChapter_2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Chapter_2.dir/main.cpp.o CMakeFiles/Chapter_2.dir/functions.cpp.o  -o Chapter_2.exe -Wl,--out-implib,libChapter_2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

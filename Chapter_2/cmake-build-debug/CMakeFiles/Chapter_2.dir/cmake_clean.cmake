@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Chapter_2.dir/main.cpp.o"
+  "CMakeFiles/Chapter_2.dir/functions.cpp.o"
   "Chapter_2.pdb"
   "Chapter_2.exe"
   "libChapter_2.dll.a"

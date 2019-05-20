@@ -230,6 +230,12 @@ CMAKE_STRIP:FILEPATH=/usr/bin/strip.exe
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
 //Value Computed by CMake
+Chapter_1_BINARY_DIR:STATIC=/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_2/cmake-build-debug
+
+//Value Computed by CMake
+Chapter_1_SOURCE_DIR:STATIC=/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_2
+
+//Value Computed by CMake
 Chapter_2_BINARY_DIR:STATIC=/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_2/cmake-build-debug
 
 //Value Computed by CMake
@@ -240,12 +246,6 @@ ProcessorCount_cmd_getconf:FILEPATH=/usr/bin/getconf.exe
 
 //Path to a program.
 ProcessorCount_cmd_sysctl:FILEPATH=ProcessorCount_cmd_sysctl-NOTFOUND
-
-//Value Computed by CMake
-ch_BINARY_DIR:STATIC=/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_2/cmake-build-debug
-
-//Value Computed by CMake
-ch_SOURCE_DIR:STATIC=/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_2
 
 
 ########################

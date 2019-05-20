@@ -2,7 +2,7 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6"/>
 	<Project>
-		<Option title="ch"/>
+		<Option title="Chapter_1"/>
 		<Option makefile_is_custom="1"/>
 		<Option compiler="gcc"/>
 		<Option virtualFolders="CMake Files\;"/>
@@ -27,8 +27,8 @@
 					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="ch">
-				<Option output="/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_2/cmake-build-debug/ch.exe" prefix_auto="0" extension_auto="0"/>
+			<Target title="Chapter_1">
+				<Option output="/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_2/cmake-build-debug/Chapter_1.exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_2/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -42,14 +42,14 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 ch"/>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Chapter_1"/>
 					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="ch/fast">
-				<Option output="/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_2/cmake-build-debug/ch.exe" prefix_auto="0" extension_auto="0"/>
+			<Target title="Chapter_1/fast">
+				<Option output="/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_2/cmake-build-debug/Chapter_1.exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_2/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -63,7 +63,7 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 ch/fast"/>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Chapter_1/fast"/>
 					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -80,8 +80,14 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_2/functions.cpp">
+			<Option target="Chapter_1"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_2/functions.h">
+			<Option target="Chapter_1"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_2/main.cpp">
-			<Option target="ch"/>
+			<Option target="Chapter_1"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_2/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
