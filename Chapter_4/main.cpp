@@ -1,6 +1,12 @@
 #include <iostream>
+#include "functions.h"
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    std::cout << "\nVarious exercises from Chapter 4 of \"C++, From Control Structures through Objects, 8th edition.\"\n";
+
+    //exercises
+    //minimumMaximum();
+    romanNumeralConverter();
+
     return 0;
 }

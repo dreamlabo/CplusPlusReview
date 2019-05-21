@@ -135,7 +135,7 @@
       <updated>1558069640000</updated>
       <workItem from="1558069642037" duration="8707000" />
       <workItem from="1558364127340" duration="1513000" />
-      <workItem from="1558369396361" duration="2021000" />
+      <workItem from="1558369396361" duration="2613000" />
     </task>
     <task id="LOCAL-00001" summary="Committing to new folder">
       <created>1558364193739</created>
@@ -148,10 +148,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12241000" />
+    <option name="totallyTimeSpent" value="12833000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26174498" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
