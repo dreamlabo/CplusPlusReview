@@ -1,5 +1,6 @@
 #include "functions.h"
 #include <iostream>
+#include <iomanip>
 
 using namespace std;
 
@@ -64,4 +65,42 @@ void romanNumeralConverter() {
             cout << "Error";
     }
     cout << endl;
+}
+
+void softwareSales(){
+    cout << "\n\t12. Software Sales.";
+    const int PACKAGE_COST = 99;
+    const double DISC_1 = .80;
+    const double DISC_2 = .70;
+    const double DISC_3 = .60;
+    const double DISC_4 = .50;
+    int unitsSold;
+    double totalBeforeDisc;
+
+    cout << "\n\t\tPlease enter the number of units sold: ";
+    cin >> unitsSold;
+
+    // check for valid input
+    while(unitsSold < 1){
+        cout << "\t\t" << unitsSold << " is not valid input. Please enter the number of units sold: ";
+        cin >> unitsSold;
+    }
+
+    totalBeforeDisc = unitsSold * PACKAGE_COST;
+    cout << fixed << setprecision(2);
+    if (unitsSold < 10){
+        cout << "\t\tPurchase Total: $" << totalBeforeDisc;
+    }
+    else if (unitsSold <= 19){
+        cout << "\t\tPurchase Total: $" << (totalBeforeDisc * DISC_1);
+    }
+    else if (unitsSold <= 49){
+        cout << "\t\tPurchase Total: $" << (totalBeforeDisc * DISC_2);
+    }
+    else if (unitsSold <= 99){
+        cout << "\t\tPurchase Total: $" << (totalBeforeDisc * DISC_3);
+    }
+    else{
+        cout << "\t\tPurchase Total: $" << (totalBeforeDisc * DISC_4);
+    }
 }

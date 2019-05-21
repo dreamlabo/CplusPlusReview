@@ -6,7 +6,8 @@ int main() {
 
     //exercises
     //minimumMaximum();
-    romanNumeralConverter();
+    //romanNumeralConverter();
+    softwareSales();
 
     return 0;
 }
