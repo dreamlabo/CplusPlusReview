@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_4/functions.cpp
+functions.h
+/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_4/functions.h
+iostream
+-
+iomanip
+-
+
+/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_4/functions.h
+

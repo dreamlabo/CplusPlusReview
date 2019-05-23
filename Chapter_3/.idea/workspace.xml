@@ -14,13 +14,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dfc2a5f1-2fbb-48cc-8635-dd2b89cf692b" name="Default Changelist" comment="Added Cmake and such for Chapter 2">
       <change beforePath="$PROJECT_DIR$/../Chapter_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chapter_3.dir/functions.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Chapter_3.dir/functions.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Chapter_4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter_4/cmake-build-debug/CMakeFiles/Chapter_4.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_4/cmake-build-debug/CMakeFiles/Chapter_4.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter_4/functions.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_4/functions.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter_4/functions.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_4/functions.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter_4/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_4/main.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -92,9 +86,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="665" />
-    <option name="y" value="85" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="405" />
+    <option name="y" value="187" />
     <option name="width" value="1254" />
     <option name="height" value="920" />
   </component>
@@ -182,7 +176,8 @@
     <option name="totallyTimeSpent" value="12791000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15302013" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
