@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_6/travelExpenses.cpp
+travelExpenses.h
+/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_6/travelExpenses.h
+iostream
+-
+
+/cygdrive/c/Users/toddl/CLionProjects/CplusPlusReview/Chapter_6/travelExpenses.h
+

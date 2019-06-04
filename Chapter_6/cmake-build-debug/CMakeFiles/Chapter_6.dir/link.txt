@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Chapter_6.dir/main.cpp.o CMakeFiles/Chapter_6.dir/functions.cpp.o CMakeFiles/Chapter_6.dir/travelExpenses.cpp.o  -o Chapter_6.exe -Wl,--out-implib,libChapter_6.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

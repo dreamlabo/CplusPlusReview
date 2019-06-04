@@ -1,0 +1,6 @@
+#ifndef CHAPTER_6_TRAVELEXPENSES_H
+#define CHAPTER_6_TRAVELEXPENSES_H
+
+void runTravelExpenses();
+
+#endif //CHAPTER_6_TRAVELEXPENSES_H
